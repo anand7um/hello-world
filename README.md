@@ -1,5 +1,5 @@
 # hello-world
-Learn how to use git online
+Learn how to use git
 
 Change#2: I have made a fair bit of progress on this project and now hoping to merge two branches together using a pull request. Change#1 is my first branch with some changes in it. Change#2 is the second branch with yet more changes added to the master directly.
 
